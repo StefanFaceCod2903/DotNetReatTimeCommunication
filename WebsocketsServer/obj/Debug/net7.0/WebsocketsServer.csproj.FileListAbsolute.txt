@@ -1,0 +1,14 @@
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\obj\Debug\net7.0\WebsocketsServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\obj\Debug\net7.0\WebsocketsServer.AssemblyInfoInputs.cache
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\obj\Debug\net7.0\WebsocketsServer.AssemblyInfo.cs
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\obj\Debug\net7.0\WebsocketsServer.csproj.CoreCompileInputs.cache
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\bin\Debug\net7.0\WebsocketsServer.exe
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\bin\Debug\net7.0\WebsocketsServer.deps.json
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\bin\Debug\net7.0\WebsocketsServer.runtimeconfig.json
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\bin\Debug\net7.0\WebsocketsServer.dll
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\bin\Debug\net7.0\WebsocketsServer.pdb
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\obj\Debug\net7.0\WebsocketsServer.dll
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\obj\Debug\net7.0\refint\WebsocketsServer.dll
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\obj\Debug\net7.0\WebsocketsServer.pdb
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\obj\Debug\net7.0\WebsocketsServer.genruntimeconfig.cache
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\WebsocketsServer\obj\Debug\net7.0\ref\WebsocketsServer.dll

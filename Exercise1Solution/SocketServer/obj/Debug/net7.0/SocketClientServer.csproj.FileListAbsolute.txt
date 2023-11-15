@@ -1,0 +1,4 @@
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\SocketClientServer\obj\Debug\net7.0\SocketClientServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\SocketClientServer\obj\Debug\net7.0\SocketClientServer.AssemblyInfoInputs.cache
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\SocketClientServer\obj\Debug\net7.0\SocketClientServer.AssemblyInfo.cs
+C:\Users\steff\OneDrive\Desktop\Projects\Faculta\An3Sem1\SCS\SocketClientServer\obj\Debug\net7.0\SocketClientServer.csproj.CoreCompileInputs.cache

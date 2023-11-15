@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMaLn6Jf8IE/stgALXFSWyBiIE/+HDODuhZT+A5UWbwsflnLESqEGxROJBagQ+2X8YmUSaaE++S+AxurE+EuGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\steff\\OneDrive\\Desktop\\Projects\\Faculta\\An3Sem1\\SCS\\Project\\Exercise1Solution\\SocketServer\\SocketServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steff\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\steff\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\steff\\.nuget\\packages\\system.net.primitives\\4.3.1\\system.net.primitives.4.3.1.nupkg.sha512",
+    "C:\\Users\\steff\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\steff\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
